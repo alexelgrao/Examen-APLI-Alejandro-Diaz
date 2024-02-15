@@ -1,0 +1,40 @@
+h2.titulo {
+    text-align: center;
+    color: blue;
+    background-color: lightpink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav.enlaces {
+    text-align: center;
+    background-color: aliceblue;
+    color: royalblue;
+}
+
+
+
+main.formularios {
+    background-color: lightsalmon;
+    text-align: center;
+    color: blue;
+}
+
+
+a:active{
+    background-color: yellow;
+    color: black;
+}
+
+main.nominadas{
+    background-color: lightgreen;
+    text-align: center;
+    color: blue;
+}
+
+p.letras{
+    color: yellow;
+}
+
+li.ro{
+    color: red;
+}
